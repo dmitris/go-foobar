@@ -3,7 +3,7 @@
 // where it is defined.
 package foobar
 
-// Foobar returns a sample string.
-func Foobar() string {
+// Demo returns a sample string.
+func Demo() string {
 	return "foobar"
 }
